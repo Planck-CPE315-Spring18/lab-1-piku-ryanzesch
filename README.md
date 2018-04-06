@@ -5,8 +5,8 @@ Name: Ryan Zesch
 Lab Status: Complete
 
 Compilation instructions:
-* `gcc -o piku piku.s
-* `./piku
+* gcc -o piku piku.s
+* ./piku
 
 
 
