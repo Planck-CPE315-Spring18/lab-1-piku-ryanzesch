@@ -1,10 +1,10 @@
 # CPE 315 Lab 1 -- Piku
 
-#Name: Ryan Zesch
+Name: Ryan Zesch
 
-#Lab Status: Complete
+Lab Status: Complete
 
-#Compilation instructions:
+Compilation instructions:
 * `gcc -o piku piku.s
 * `./piku
 
